@@ -1,0 +1,204 @@
+body {
+  font-family: Roboto;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.header {
+  width: 1440px;
+  background: #fff;
+}
+
+.header-logo-link {
+  text-decoration: none;
+}
+
+.logo-web {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.logo-stydio {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  margin-right: 76px;
+}
+
+.navigation-list {
+  list-style-type: none;
+}
+
+.navigation-link {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  margin-top: 15px;
+  text-decoration: none;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
+  color: #404bbf;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.adress-list {
+  list-style-type: none;
+}
+
+.adress-link {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+  padding-right: 40px;
+}
+
+.adress-link:hover,
+.adress-link:focus {
+  color: #404bbf;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.main-section {
+  width: 1440px;
+  flex-shrink: 0;
+  background: #2e2f42;
+}
+
+.main-header {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+  width: 496px;
+}
+
+.main-button {
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.main-button:hover,
+.main-button:focus {
+  border-radius: 4px;
+  background: #404bbf;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.subheader {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.title {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+
+.paragraph {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.first-sektion-list {
+  list-style-type: none;
+}
+
+.second-sektion-list {
+  list-style-type: none;
+}
+
+.third-sektion-list {
+  list-style-type: none;
+}
+
+.footer-section {
+  width: 1440px;
+  background: #2e2f42;
+}
+
+.footer-logo-link {
+  text-decoration: none;
+}
+
+.footer-logo-web {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.footer-logo-stydio {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-transform: uppercase;
+}
+
+.footer-paragraph {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
