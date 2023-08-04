@@ -135,8 +135,8 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .paragraph {
@@ -159,6 +159,14 @@ body {
 
 .third-section-list {
   list-style-type: none;
+}
+
+.second-section {
+  background-color: #f4f4fd;
+}
+
+.second-section-list-item {
+  background-color: #ffffff;
 }
 
 .third-section {
