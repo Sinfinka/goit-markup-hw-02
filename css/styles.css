@@ -13,22 +13,14 @@ body {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
-.logo-stydio {
+.header-logo-stydio {
   color: #2e2f42;
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .navigation-list {
@@ -37,12 +29,10 @@ body {
 
 .navigation-link {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
@@ -50,41 +40,26 @@ body {
   font-style: normal;
 }
 
-.navigation-link:hover,
-.navigation-link:focus {
-  color: #404bbf;
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
-}
-
 .adress-list {
   list-style-type: none;
 }
 
+.navigation-link:hover,
+.navigation-link:focus {
+  color: #404bbf;
+}
+
 .adress-link {
-  color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
 }
 
 .adress-link:hover,
 .adress-link:focus {
   color: #404bbf;
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
 }
 
 .main-section {
@@ -93,18 +68,15 @@ body {
 
 .main-header {
   color: #fff;
-  font-family: Roboto;
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
   line-height: 1.07;
   text-align: center;
 }
 
 .main-button {
   background: #4d5ae5;
-  font-family: Roboto, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -119,21 +91,16 @@ body {
 
 .subheader {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 
 .title {
   color: #2e2f42;
-  font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -141,9 +108,7 @@ body {
 
 .paragraph {
   color: #434455;
-  font-family: Roboto;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -186,7 +151,6 @@ body {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -195,21 +159,12 @@ body {
 
 .footer-logo-stydio {
   color: #f4f4fd;
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .footer-paragraph {
   color: #f4f4fd;
-  font-family: Roboto, sans-serif;
   font-size: 16px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.2em;
 }
